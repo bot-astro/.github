@@ -48,6 +48,7 @@ You can read the story of this project [on my blog post](https://giuliopime.dev/
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?&logo=cloudflare&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?&logo=prometheus&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-%23000000.svg?logo=sentry&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&logo=github&logoColor=white)
 
 #### Services
